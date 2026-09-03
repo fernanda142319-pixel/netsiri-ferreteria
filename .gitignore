@@ -1,0 +1,20 @@
+# Local Netlify folder
+.netlify
+
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+out
+
+# Env files (contain secrets)
+.env
+.env*.local
+
+# Build artifacts / backups
+tsconfig.tsbuildinfo
+*.zip
+
+# OS / editor
+.DS_Store
